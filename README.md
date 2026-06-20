@@ -1,6 +1,6 @@
 <!--
   SETUP CHECKLIST — replace before publishing:
-  1. YOUR-USERNAME      -> your GitHub username (appears in stats/snake URLs)
+  1. MohitNilvarn      -> your GitHub username (appears in stats/snake URLs)
   2. YOUR-LINKEDIN      -> your LinkedIn handle
   3. YOUR-KAGGLE        -> your Kaggle handle
   4. YOUR-EMAIL         -> your email address
@@ -19,9 +19,10 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/mohit-nilvarn-568319249/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C1633C"/></a>
-<a href="https://kaggle.com/mohit17084"><img src="https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=C1633C"/></a>
-<a href="mailto:mohitnils1708@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C1633C"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C1633C"/></a>
+<a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=C1633C"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C1633C"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=C1633C"/></a>
 
 </div>
 
@@ -109,12 +110,12 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&icon_color=c1633c&text_color=f5f0e8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&text_color=f5f0e8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohitNilvarn&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&icon_color=c1633c&text_color=f5f0e8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNilvarn&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&text_color=f5f0e8" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=gruvbox&hide_border=true&background=00000000&ring=c1633c&fire=c1633c&currStreakLabel=c1633c" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitNilvarn&theme=gruvbox&hide_border=true&background=00000000&ring=c1633c&fire=c1633c&currStreakLabel=c1633c" width="60%"/>
 
 </div>
 
@@ -124,7 +125,7 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <div align="center">
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MohitNilvarn/MohitNilvarn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -134,6 +135,6 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1633c,50:4a3728,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=c1633c&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=MohitNilvarn&color=c1633c&style=flat-square&label=Profile+Views"/>
 
 </div>
