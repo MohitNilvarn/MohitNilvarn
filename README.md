@@ -1,12 +1,9 @@
 <!--
   SETUP CHECKLIST — replace before publishing:
-  1. MohitNilvarn      -> your GitHub username (appears in stats/snake URLs)
-  2. YOUR-LINKEDIN      -> your LinkedIn handle
-  3. YOUR-KAGGLE        -> your Kaggle handle
-  4. YOUR-EMAIL         -> your email address
-  5. YOUR-PORTFOLIO.com -> your portfolio / website URL
-  6. The snake animation requires a GitHub Action on your own
-     <username>/<username> repo — see snake.yml provided alongside this file.
+  1. YOUR-LINKEDIN      -> your LinkedIn handle
+  2. YOUR-KAGGLE        -> your Kaggle handle
+  3. YOUR-EMAIL         -> your email address
+  4. YOUR-PORTFOLIO.com -> your portfolio / website URL
 -->
 
 <div align="center">
@@ -110,22 +107,16 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitNilvarn&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&icon_color=c1633c&text_color=f5f0e8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNilvarn&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=c1633c&text_color=f5f0e8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohitNilvarn&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b4a&icon_color=ffb86c&text_color=f5f0e8&rank_icon=percentile&border_radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNilvarn&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=ff6b4a&text_color=f5f0e8&border_radius=12" width="38%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitNilvarn&theme=gruvbox&hide_border=true&background=00000000&ring=c1633c&fire=c1633c&currStreakLabel=c1633c" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitNilvarn&bg_color=0d0d0d&color=ff6b4a&line=ff6b4a&point=ffb86c&area=true&area_color=ff6b4a&hide_border=true&custom_title=Commit%20Activity" width="95%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://github.com/MohitNilvarn/MohitNilvarn/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=MohitNilvarn&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=2" width="95%"/>
 
 </div>
 
