@@ -1,25 +1,23 @@
 <!--
-  SETUP CHECKLIST — replace before publishing:
-  1. YOUR-LINKEDIN      -> your LinkedIn handle
-  2. YOUR-KAGGLE        -> your Kaggle handle
-  3. YOUR-EMAIL         -> your email address
-  4. YOUR-PORTFOLIO.com -> your portfolio / website URL
+Setup checklist before publishing:
+1. YOUR-LINKEDIN refers to your LinkedIn handle
+2. YOUR-KAGGLE refers to your Kaggle handle
+3. YOUR-EMAIL refers to your email address
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a3728,100:c1633c&height=220&section=header&text=MOHIT&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%E2%80%94%20Applied%20ML%20%26%20Generative%20AI&descAlignY=55&descSize=18&descColor=f5f0e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2f2e,100:2d5a56&height=220&section=header&text=MOHIT&fontSize=68&fontColor=f5efe4&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%2C%20Applied%20ML%20and%20Generative%20AI&descAlignY=55&descSize=18&descColor=c9974c" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=C1633C&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+Applied+ML+%26+GenAI+Systems;Building+RAG+Pipelines%2C+Anomaly+Detection+%26+Bayesian+Models;GCP+%7C+Vertex+AI+%7C+LLM-Native+Applications;Turning+Unstructured+Data+into+Production+Intelligence" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=C9974C&center=true&vCenter=true&width=950&height=50&lines=Data+Scientist+%7C+Applied+ML+%26+GenAI+Systems;Building+RAG+Pipelines%2C+Anomaly+Detection+%26+Bayesian+Models;GCP+%7C+Vertex+AI+%7C+LLM-Native+Applications" alt="Typing animation"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C1633C"/></a>
-<a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=C1633C"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C1633C"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=C1633C"/></a>
+<a href="https://linkedin.com/in/mohit-nilvarn-568319249/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C9974C"/></a>
+<a href="https://kaggle.com/mohit17084"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=C9974C"/></a>
+<a href="mailto:mohitnils1708@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C9974C"/></a>
 
 </div>
 
@@ -27,9 +25,9 @@
 
 ## About
 
-I work at the intersection of applied machine learning and generative AI — building systems that turn unstructured signal into decision-ready intelligence. Recent work spans retrieval-augmented generation on open-weight LLMs, unsupervised anomaly detection for high-volume time series, and applied computer vision on satellite and aerial imagery.
+I'm a data scientist working in applied machine learning and generative AI. Most of my recent work involves building retrieval augmented generation pipelines on open weight LLMs, unsupervised anomaly detection for high volume sensor data, and computer vision models for satellite and aerial imagery.
 
-> Most of the interesting problems live where deterministic systems meet uncertainty. That's the part I keep coming back to.
+I like problems where the data is messy and the answer isn't a clean yes or no. That's usually where the more useful models come from.
 
 <br/>
 
@@ -37,69 +35,95 @@ I work at the intersection of applied machine learning and generative AI — bui
 
 | Focus area | What it involves |
 |---|---|
-| **Retrieval-Augmented Generation** | A production RAG pipeline that converts lecture audio and source material into structured study content, using open-weight LLMs and vector search over a managed document store |
-| **Anomaly Detection at Scale** | An unsupervised ensemble — autoencoders, isolation forests, statistical scoring — for flagging anomalies in high-volume sensor and meter data |
-| **Applied Computer Vision** | Vegetation-index extraction and land segmentation from satellite and aerial imagery for agricultural intelligence |
+| **Retrieval-Augmented Generation** | A production RAG pipeline that turns lecture audio and source material into structured study content, using open weight LLMs and vector search over a managed document store |
+| **Anomaly Detection at Scale** | An unsupervised ensemble of autoencoders, isolation forests, and statistical scoring methods for flagging anomalies in high volume sensor and meter data |
+| **Applied Computer Vision** | Vegetation index extraction and land segmentation from satellite and aerial imagery for agricultural use cases |
 
 <br/>
 
 ## Currently Exploring
 
-Spending evenings on probabilistic deep learning — variational inference, MC dropout, deep ensembles — chasing models that can say "I don't know" instead of confidently guessing wrong.
+Spending evenings on probabilistic deep learning: variational inference, MC dropout, deep ensembles. The goal is models that can say "I'm not sure" instead of guessing confidently and being wrong.
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
+<table>
+<tr>
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=C1633C)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=C1633C)
-![R](https://img.shields.io/badge/R-1a1a2e?style=for-the-badge&logo=r&logoColor=C1633C)
-![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=C1633C)
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/LANGUAGES-c9974c?style=for-the-badge&logoColor=0d1117" width="100%"/>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=C9974C"/>
+</p>
+</td>
 
-**Machine Learning & Deep Learning**
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING%20%26%20DEEP%20LEARNING-4fa8a3?style=for-the-badge&logoColor=0d1117" width="100%"/>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=4FA8A3"/>
+</p>
+</td>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=C1633C)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=C1633C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=C1633C)
-![Keras](https://img.shields.io/badge/Keras-1a1a2e?style=for-the-badge&logo=keras&logoColor=C1633C)
-![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=C1633C)
+</tr>
+<tr>
 
-**Generative AI & LLM Engineering**
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/GENERATIVE%20AI%20%26%20LLM%20ENGINEERING-c9974c?style=for-the-badge&logoColor=0d1117" width="100%"/>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Anthropic%20Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-0d1117?style=for-the-badge&logo=mongodb&logoColor=C9974C"/>
+</p>
+</td>
 
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=C1633C)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=C1633C)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=C1633C)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=C1633C)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=C1633C)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=C1633C)
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/CLOUD%20%26%20MLOPS-4fa8a3?style=for-the-badge&logoColor=0d1117" width="100%"/>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/Cloud%20Run-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=4FA8A3"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=4FA8A3"/>
+</p>
+</td>
 
-**Probabilistic & Statistical Modeling**
+</tr>
+<tr>
 
-![PyMC](https://img.shields.io/badge/PyMC-1a1a2e?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-1a1a2e?style=for-the-badge&logo=scipy&logoColor=C1633C)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1a1a2e?style=for-the-badge)
-![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-1a1a2e?style=for-the-badge)
+<td colspan="2">
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS%20AND%20VISUALIZATION-c9974c?style=for-the-badge&logoColor=0d1117" width="100%"/>
+<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=C9974C"/>
+<img src="https://img.shields.io/badge/GCP%20Looker-0d1117?style=for-the-badge&logo=looker&logoColor=C9974C"/>
+</p>
+</td>
 
-**Cloud & MLOps**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=C1633C)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=C1633C)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=C1633C)
-![MLflow](https://img.shields.io/badge/MLflow-1a1a2e?style=for-the-badge&logo=mlflow&logoColor=C1633C)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=C1633C)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=C1633C)
-
-**Data Engineering & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=C1633C)
-![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=C1633C)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a2e?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-1a1a2e?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-1a1a2e?style=for-the-badge&logo=plotly&logoColor=C1633C)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=C1633C)
+</tr>
+</table>
 
 <br/>
 
@@ -107,16 +131,16 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitNilvarn&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b4a&icon_color=ffb86c&text_color=f5f0e8&rank_icon=percentile&border_radius=12" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNilvarn&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=ff6b4a&text_color=f5f0e8&border_radius=12" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohitNilvarn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9974c&icon_color=4fa8a3&text_color=e8e3d8&rank_icon=percentile&border_radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitNilvarn&layout=donut&hide_border=true&bg_color=0d1117&title_color=c9974c&text_color=e8e3d8&border_radius=12" width="38%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitNilvarn&bg_color=0d0d0d&color=ff6b4a&line=ff6b4a&point=ffb86c&area=true&area_color=ff6b4a&hide_border=true&custom_title=Commit%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitNilvarn&bg_color=0d1117&color=4fa8a3&line=4fa8a3&point=c9974c&area=true&area_color=4fa8a3&hide_border=true&custom_title=Commit%20Activity" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohitNilvarn&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=2" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohitNilvarn&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=2" width="95%"/>
 
 </div>
 
@@ -124,8 +148,8 @@ Spending evenings on probabilistic deep learning — variational inference, MC d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1633c,50:4a3728,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5a56,50:1a2f2e,100:0d1117&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=MohitNilvarn&color=c1633c&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=MohitNilvarn&color=c9974c&style=flat-square&label=Profile+Views"/>
 
 </div>
