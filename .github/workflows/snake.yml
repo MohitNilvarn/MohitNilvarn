@@ -1,8 +1,6 @@
-# Place this file at: .github/workflows/snake.yml
-# in your <username>/<username> profile repository.
-#
-# It regenerates the snake SVG every 6 hours and pushes it to an "output"
-# branch, which is what the README's snake animation URL points to.
+# Regenerates the contribution-graph snake every 6 hours and publishes it to the
+# "output" branch, which the README's Activity section loads.
+# Colors match the profile palette (teal contributions, gold snake).
 
 name: generate animated snake
 
@@ -14,6 +12,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,8 +24,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#b07a2a&color_dots=#ebedf0,#cfe6e4,#97cbc7,#4fa8a3,#2a7d78
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#c9974c&color_dots=#161b22,#173230,#245a56,#3a8f89,#5cc2bb
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
