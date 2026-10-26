@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Mohit Nilvarn</title>
-  <desc id="desc">Data scientist working in applied machine learning and generative AI. Focused on retrieval-augmented generation, anomaly detection at scale, probabilistic deep learning, computer vision for agriculture.</desc>
+  <desc id="desc">AI/ML engineer working across data engineering, machine learning and generative AI. Focused on end-to-end ML pipelines, big data with PySpark, LLM agents and RAG, anomaly detection at scale.</desc>
   <defs>
     <linearGradient id="edge-fade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#fff" stop-opacity="0"/>
@@ -49,14 +49,14 @@
     }
   </style>
 
-  <text class="mono eyebrow fade-in" x="2" y="58">DATA SCIENTIST · APPLIED ML &amp; GENERATIVE AI</text>
+  <text class="mono eyebrow fade-in" x="2" y="58">AI/ML ENGINEER · DATA ENGINEERING &amp; GENERATIVE AI</text>
   <text class="serif name fade-in d1" x="0" y="140">Mohit Nilvarn</text>
   <g class="fade-in d2">
     <text class="sans lede" x="0" y="196" style="opacity:1">Focused on</text>
-    <text class="sans lede phrase" x="0" y="196" style="animation-delay:0.0s;opacity:1"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">retrieval-augmented generation</tspan></text>
-    <text class="sans lede phrase" x="0" y="196" style="animation-delay:3.2s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">anomaly detection at scale</tspan></text>
-    <text class="sans lede phrase" x="0" y="196" style="animation-delay:6.4s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">probabilistic deep learning</tspan></text>
-    <text class="sans lede phrase" x="0" y="196" style="animation-delay:9.6s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">computer vision for agriculture</tspan></text>
+    <text class="sans lede phrase" x="0" y="196" style="animation-delay:0.0s;opacity:1"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">end-to-end ML pipelines</tspan></text>
+    <text class="sans lede phrase" x="0" y="196" style="animation-delay:3.2s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">big data with PySpark</tspan></text>
+    <text class="sans lede phrase" x="0" y="196" style="animation-delay:6.4s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">LLM agents and RAG</tspan></text>
+    <text class="sans lede phrase" x="0" y="196" style="animation-delay:9.6s"><tspan class="spacer">Focused on</tspan><tspan class="serif accent" dx="9">anomaly detection at scale</tspan></text>
   </g>
 
   <g mask="url(#fade)">

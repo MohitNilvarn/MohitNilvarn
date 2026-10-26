@@ -1,27 +1,49 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Mohit Nilvarn. Data scientist working in applied machine learning and generative AI.">
+  <img src="assets/header-light.svg" width="100%" alt="Mohit Nilvarn. AI/ML engineer working across data engineering, machine learning and generative AI.">
 </picture>
 
-[LinkedIn](https://linkedin.com/in/mohit-nilvarn-568319249/) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/mohit17084) &nbsp;·&nbsp; [Email](mailto:mohitnils1708@gmail.com)
+[LinkedIn](https://linkedin.com/in/mohit-nilvarn-568319249/) &nbsp;·&nbsp; [Kaggle](https://kaggle.com/mohit17084) &nbsp;·&nbsp; [Email](mailto:mohitnils1708@gmail.com) &nbsp;·&nbsp; Pune, India
 
 <br/>
 
 ### About
 
-I'm a data scientist working in applied machine learning and generative AI. Most of my recent work involves building retrieval-augmented generation pipelines on open-weight LLMs, unsupervised anomaly detection for high-volume sensor data, and computer vision models for satellite and aerial imagery.
+I'm an AI/ML engineer at ImmersiveData.ai and a Google Cloud Certified Professional Data Engineer. I build end-to-end data and ML pipelines in Python and SQL, from ingestion and data quality through feature engineering, modeling, and risk scoring, on Spark, Databricks, and Google Cloud.
+
+Recent work spans credit-risk prediction, anomaly detection on high-volume meter data, document AI for identity verification, and LLM agents that complete real tasks through tool calling.
 
 I like problems where the data is messy and the answer isn't a clean yes or no. That's usually where the more useful models come from.
 
 <br/>
 
-### Selected work
+### Experience
 
-**Retrieval-augmented generation** &nbsp;·&nbsp; [Teachers-Assistance-Platform](https://github.com/MohitNilvarn/Teachers-Assistance-Platform)<br/>
-A production RAG pipeline that turns lecture audio and source material into structured study content, using open-weight LLMs and vector search over a managed document store.
+**AI/ML Engineer** &nbsp;·&nbsp; ImmersiveData.ai &nbsp;·&nbsp; *Aug 2026 – present, promoted from intern*
+- Built an end-to-end pipeline predicting EMI bounce (missed-payment) risk for an NBFC: ingestion and integration of customer and repayment data, validation, feature engineering, training, and risk scoring.
+- Built electricity theft detection from meter tampering, engineering consumption-anomaly features over meter data to flag suspected cases.
+- Built an autonomous LLM agent that books cabs from user preferences, using tool calling to complete rides without manual steps.
 
-**Anomaly detection at scale**<br/>
-An unsupervised ensemble of autoencoders, isolation forests, and statistical scoring methods for flagging anomalies in high-volume sensor and meter data.
+**AI/ML Intern** &nbsp;·&nbsp; ImmersiveData.ai &nbsp;·&nbsp; *Nov 2025 – Aug 2026*
+- Built OCR-based KYC identity verification on Google Vertex AI Vision, cutting manual review time by ~35%.
+- Built real-time speech-to-text systems, and prototyped a LangChain RAG chatbot behind FastAPI that lets non-technical users query business data in plain English.
+- Instrumented AI services with Langfuse and Grafana for tracing, monitoring, and evaluation.
+
+**AI/ML Intern** &nbsp;·&nbsp; AppSynergies &nbsp;·&nbsp; *Sep 2025 – Nov 2025, remote*
+- Designed n8n lead-handling automations with CRM data synced to Supabase, and a LangChain proposal generator that cut turnaround time by ~40%.
+
+<br/>
+
+### Selected projects
+
+**Teacher Assistance Platform** &nbsp;·&nbsp; [repository](https://github.com/MohitNilvarn/Teachers-Assistance-Platform)<br/>
+Lecture recordings in, study material out. ASR, transformer summarization, and a RAG pipeline over open-weight LLMs generate transcripts, notes, assignments, and flashcards, reducing manual content prep by ~50%.
+
+**RAG research assistant**<br/>
+Document ingestion and indexing with Hugging Face embeddings and FAISS, with tool routing that falls back to Wikipedia when retrieval confidence is low. Reaches 85%+ semantic relevance.
+
+**Recommendation engine**<br/>
+A similarity-based movie recommender that combines collaborative filtering with Naive Bayes and logistic regression, reaching 88% accuracy with cross-validation and tuning.
 
 **Applied computer vision**<br/>
 Vegetation index extraction and land segmentation from satellite and aerial imagery for agricultural use cases.
@@ -38,11 +60,22 @@ Spending evenings on probabilistic deep learning: variational inference, MC drop
 
 | Area | Tools |
 |:---|:---|
-| **Languages** | Python · SQL · R · Bash |
-| **Machine learning** | scikit-learn · PyTorch · TensorFlow · Keras · XGBoost · OpenCV |
-| **Generative AI** | LangChain · Hugging Face · OpenAI · Anthropic Claude · Vertex AI · MongoDB Atlas |
-| **Cloud & MLOps** | Google Cloud · Cloud Run · Docker · MLflow · Git · GitHub Actions |
-| **Data & visualization** | Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter · Looker |
+| **Languages** | Python · SQL · C++ · Java · Bash |
+| **Data engineering** | Apache Spark (PySpark) · Databricks · Hadoop (HDFS) · BigQuery · Dataproc · Bigtable |
+| **Machine learning** | scikit-learn · XGBoost · PyTorch · TensorFlow · Pandas · Matplotlib |
+| **Generative AI** | LangChain · LLM agents · RAG · Hugging Face · OCR · Langfuse |
+| **Databases** | PostgreSQL (Supabase) · MongoDB Atlas · NoSQL stores · FAISS |
+| **Cloud** | Google Cloud (Vertex AI, Vision AI) · AWS · Azure |
+| **Engineering** | FastAPI · Flask · Docker · Kubernetes · CI/CD · MLflow · DVC · Grafana · Linux · Git |
+
+<br/>
+
+### Credentials
+
+[Google Cloud Certified Professional Data Engineer](https://www.credly.com/badges/2983cd4f-212d-4c1f-9b9d-4ba92fa78085/public_url)<br/>
+[Oracle Cloud Infrastructure 2025 Generative AI Professional](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6895666&trackId=OCI25GAIOCP&key=e725373ed1828469426f69af299651ee5fb72fa2)
+
+B.E. in Electronics & Telecommunication Engineering with Honours in AI & ML, Trinity Academy of Engineering, Pune, 2026.
 
 <br/>
 
